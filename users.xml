@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tenants>
+    <groups/>
+    <users>
+        <user identifier="c76d81ff-f576-311c-a88f-ad64aa654eb7" identity="mintops"/>
+        <user identifier="784bc003-06fa-3230-952c-1df7a1e85422" identity="CN=*.mintopsblog.local, OU=NIFI"/>
+    </users>
+</tenants>
